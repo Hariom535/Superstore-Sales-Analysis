@@ -9,4 +9,4 @@
  - Data cleaning(removed null values)
 
  ### Dataset
- - 9800+ rcords,18 columns
+ - 9800+ records,18 columns
